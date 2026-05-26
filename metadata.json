@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Video Generator",
+  "description": "Generate long cinematic videos from text prompts with intelligent semantic prompt enhancement and custom artistic styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
